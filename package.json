@@ -24,7 +24,7 @@
     "webpack-merge": "4.2.2"
   },
   "dependencies": {
-    "ajv": "6.0.0",
+    "ajv": "6.12.3",
     "babel-preset-stage-1": "6.24.1",
     "moment": "^2.24.0",
     "react": "16.8.0",
